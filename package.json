@@ -1,6 +1,7 @@
 {
   "name": "react-rails-memo",
   "version": "0.1.0",
+  "homepage": "https://sinceseptember4.github.io/react-rails-memo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -12,8 +13,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "https://sinceseptember4.github.io/react-rails-memo",
-  "scripts": {
+    "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
