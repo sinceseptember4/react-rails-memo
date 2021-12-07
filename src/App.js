@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
-
+import { BrowserRouter, Link ,Switch, Route}from "react-router-dom";
+import {Main} from './main'
+import {Edit} from './edit'
+import React from "react";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+    <h1>aaa</h1>
+    <BrowserRouter>
+    <Link to="/">戻る</Link>
+    <Link to="/edit">編集</Link>
+    <Switch>
+      <Route exact path="/">
+        <Main />
+      </Route>
+      <Route  path="/edit">
+        <Edit/>
+      </Route>
+    </Switch>
+  </BrowserRouter>
+    </>
+  )
+
 }
 
 export default App;
