@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/react-rails-memo/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-rails-memo/static/js/main.e2ce289a.chunk.js",
-    "main.js.map": "/react-rails-memo/static/js/main.e2ce289a.chunk.js.map",
-    "runtime-main.js": "/react-rails-memo/static/js/runtime-main.09b7a60f.js",
-    "runtime-main.js.map": "/react-rails-memo/static/js/runtime-main.09b7a60f.js.map",
-    "static/js/2.264410de.chunk.js": "/react-rails-memo/static/js/2.264410de.chunk.js",
-    "static/js/2.264410de.chunk.js.map": "/react-rails-memo/static/js/2.264410de.chunk.js.map",
-    "static/js/3.48f5abc7.chunk.js": "/react-rails-memo/static/js/3.48f5abc7.chunk.js",
-    "static/js/3.48f5abc7.chunk.js.map": "/react-rails-memo/static/js/3.48f5abc7.chunk.js.map",
+    "main.css": "/react-rails-memo/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/react-rails-memo/static/js/main.8c8580a1.chunk.js",
+    "main.js.map": "/react-rails-memo/static/js/main.8c8580a1.chunk.js.map",
+    "runtime-main.js": "/react-rails-memo/static/js/runtime-main.4176b7e2.js",
+    "runtime-main.js.map": "/react-rails-memo/static/js/runtime-main.4176b7e2.js.map",
+    "static/js/2.0c75aabb.chunk.js": "/react-rails-memo/static/js/2.0c75aabb.chunk.js",
+    "static/js/2.0c75aabb.chunk.js.map": "/react-rails-memo/static/js/2.0c75aabb.chunk.js.map",
+    "static/js/3.8d0c3cea.chunk.js": "/react-rails-memo/static/js/3.8d0c3cea.chunk.js",
+    "static/js/3.8d0c3cea.chunk.js.map": "/react-rails-memo/static/js/3.8d0c3cea.chunk.js.map",
     "index.html": "/react-rails-memo/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-rails-memo/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.264410de.chunk.js.LICENSE.txt": "/react-rails-memo/static/js/2.264410de.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-rails-memo/static/media/logo.6ce24c58.svg"
+    "static/css/main.2ae47eeb.chunk.css.map": "/react-rails-memo/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.0c75aabb.chunk.js.LICENSE.txt": "/react-rails-memo/static/js/2.0c75aabb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.09b7a60f.js",
-    "static/js/2.264410de.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.e2ce289a.chunk.js"
+    "static/js/runtime-main.4176b7e2.js",
+    "static/js/2.0c75aabb.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.8c8580a1.chunk.js"
   ]
 }
